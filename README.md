@@ -17,7 +17,7 @@ It demonstrates how to access:
 * Incoming message text
 * Bot context
 
-**File:** `user_info_bot.py`
+**File:** `ptb1.py`
 
 ### 2. Telegram Menu Handler Bot
 
@@ -34,7 +34,7 @@ It demonstrates:
 * Sending received contact information to an admin
 * Sending received location information to an admin
 
-**File:** `menu_handler_bot.py`
+**File:** `ptb2.py`
 
 ## Technologies
 
