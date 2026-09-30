@@ -6,8 +6,8 @@ ADMIN_ID =
 def start_command(update, context):
     print(update.message.from_user.id)
 
-    update.message.reply_text(text='''Salom Bo'timizga xush kelibsiz 👍'''),
-    update.message.reply_text(text='''Menyuni oching ochish uchun: /menu''')
+    update.message.reply_text(text='Hello, welcome to our bot. 👍'),
+    update.message.reply_text(text='Open the menu to open: /menu')
 
 def show_menu(update, context):
     buttons = [
